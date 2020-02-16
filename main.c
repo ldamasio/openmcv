@@ -1,0 +1,6 @@
+<stddio.h>
+
+int main() {
+
+}
+
